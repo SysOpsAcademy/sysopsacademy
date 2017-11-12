@@ -4,14 +4,15 @@ baseurl:
 # Site settings
 title: SysOps Academy
 email: hi@sysops.academy
-description: ""
+description: "A practical guide to boost your career as SysOps, DevOps or SRE"
 
 
 # Team names, titles and social links
 people:
-- name: Maria Nita
-  pic: 1
-  position: Site Reliability Engineer
+
+- name: Marius Cotofana
+  pic: MariusCotofana
+  position: DevOps
   social:
     - title: twitter
       url: #
@@ -20,9 +21,9 @@ people:
     - title: github
       url: #
 
-- name: Marius Cotofana
-  pic: 2
-  position: DevOps
+- name: Maria Nita
+  pic: MariaNita
+  position: Site Reliability Engineer
   social:
     - title: twitter
       url: #
